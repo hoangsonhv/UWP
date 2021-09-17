@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\T2008M\\T2008M_UWP\\T2008M_UWP.csproj": {}
+    "E:\\C#\\T2008M\\UWP\\T2008M_UWP.csproj": {}
   },
   "projects": {
-    "E:\\C#\\T2008M\\T2008M_UWP\\T2008M_UWP.csproj": {
+    "E:\\C#\\T2008M\\UWP\\T2008M_UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\T2008M\\T2008M_UWP\\T2008M_UWP.csproj",
+        "projectUniqueName": "E:\\C#\\T2008M\\UWP\\T2008M_UWP.csproj",
         "projectName": "T2008M_UWP",
-        "projectPath": "E:\\C#\\T2008M\\T2008M_UWP\\T2008M_UWP.csproj",
+        "projectPath": "E:\\C#\\T2008M\\UWP\\T2008M_UWP.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\T2008M\\T2008M_UWP\\obj\\",
+        "outputPath": "E:\\C#\\T2008M\\UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

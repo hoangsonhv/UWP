@@ -15,7 +15,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
-namespace T2008M_UWP.Pages
+namespace UWP.Pages
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
@@ -29,14 +29,14 @@ namespace T2008M_UWP.Pages
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            string name = txtName.Text;
-            string age = txtAge.Text;
-            string email = txtEmail.Text;
-            string address = txtAddress.Text;
-            txtN.Text = name;
-            txtA.Text = age;
-            txtE.Text = email;
-            txtAd.Text = address;
+            string name = inputName.Text;
+            string tel = inputTel.Text;
+            string pid = inputID.Text;
+            string address = inputAddress.Text;
+            txtName.Text = name;
+            txtTel.Text = tel;
+            txtID.Text = pid;
+            txtAddress.Text = address;
         }
     }
 }
